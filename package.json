@@ -1,0 +1,32 @@
+{
+  "name": "validate-number",
+  "version": "0.0.0",
+  "description": "Strip any extranous price characters such as $ and make sure there is still a valid number",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nisaacson/validate-number.git"
+  },
+  "keywords": [
+    "validate",
+    "number",
+    "docparse"
+  ],
+  "author": "Noah Isaacson",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "63caad3168d70498432bdcf86a2297f2e59fec12",
+  "bugs": {
+    "url": "https://github.com/nisaacson/validate-number/issues"
+  },
+  "devDependencies": {
+    "mocha": "~1.11.0",
+    "should": "~1.2.2"
+  }
+}
