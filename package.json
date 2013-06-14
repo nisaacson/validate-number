@@ -1,6 +1,6 @@
 {
   "name": "validate-number",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Strip any extranous price characters such as $ and make sure there is still a valid number",
   "main": "index.js",
   "directories": {
